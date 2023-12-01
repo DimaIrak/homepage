@@ -1,0 +1,38 @@
+.naglowek {
+    color: #fd1605;
+}
+
+.fakty {
+    color: rgb(172, 100, 238);
+}
+
+.zelony {
+    color: rgb(10, 203, 10);
+}
+
+.opis {
+    color: #9e2424;
+}
+
+.konec {
+    color: royalblue;
+}
+
+.reguly {
+    background-color: rgba(121, 214, 127, 0.216);
+    padding: 10px;
+}
+
+.nowaKlasa {
+    background-color: rgba(112, 128, 144, 0.447);
+    padding: 10px;
+}
+
+.info {
+    color: crimson;
+}
+
+.przycisk {
+    color: blue;
+    background-color: aquamarine;
+}
